@@ -1,0 +1,1 @@
+Implementado em `testeopencode\Laguna XS 2.1 (free)\algoritmoteste.py`. A classe `LRUCacheTTL` é thread-safe, com LRU eviction e TTL por chave, usando apenas biblioteca padrão. Exceções customizadas para tipos inválidos.

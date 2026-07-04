@@ -1,0 +1,1 @@
+Classe criada em `testeopencode/lrucache_ttl/algoritmoteste.py` com thread-safety, LRU, TTL e exceções customizadas.

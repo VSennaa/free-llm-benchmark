@@ -1,0 +1,1 @@
+Arquivo criado em `lrucache_ttl.py`. Testes passaram.

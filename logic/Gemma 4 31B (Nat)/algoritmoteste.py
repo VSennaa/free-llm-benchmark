@@ -1,0 +1,1 @@
+Classe criada em `C:\Users\VSenna\testeopencode\lrucache_ttl.py`.

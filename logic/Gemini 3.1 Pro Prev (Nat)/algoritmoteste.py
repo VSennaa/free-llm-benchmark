@@ -1,0 +1,1 @@
+Implementação concluída em `C:\Users\VSenna\testeopencode\lrucache_ttl.py`. A classe é thread-safe (usando RLock), implementa LRU (OrderedDict) e TTL (timestamps + verificação de expiração), com exceções customizadas para tipos inválidos.

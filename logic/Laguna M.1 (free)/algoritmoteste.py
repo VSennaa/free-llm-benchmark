@@ -1,0 +1,1 @@
+Classe implementada e testada com sucesso. O arquivo está em `C:\Users\VSenna\testeopencode\lrucache_ttl.py`.

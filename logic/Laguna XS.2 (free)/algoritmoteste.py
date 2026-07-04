@@ -1,0 +1,1 @@
+Implementação concluída em `C:\Users\VSenna\testeopencode\LruCacheTTL\algoritmoteste.py`. A classe `LRUCacheTTL` é thread-safe, tem limite de capacidade com descarte LRU, TTL por chave, e exceções customizadas para tipos inválidos.

@@ -1,0 +1,1 @@
+Classe `LRUCacheTTL` implementada em `C:\Users\VSenna\testeopencode\lrucache_ttl.py`. Testes passaram com sucesso.

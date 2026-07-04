@@ -1,0 +1,1 @@
+Arquivo criado em `C:\Users\VSenna\testeopencode\LruCacheTTL\algoritmoteste.py` com a classe `LRUCacheTTL` thread-safe, suporte a TTL, descarte LRU e exceções customizadas.
