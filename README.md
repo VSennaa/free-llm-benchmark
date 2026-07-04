@@ -15,6 +15,10 @@
   <p align="center">
     Um benchmark holístico, adaptado da metodologia de Fábio Akita, focado em avaliar a real musculatura neural de LLMs Gratuitos e Previews em cenários de Zero-Shot Coding!
     <br />
+    <br />
+    <strong>🚧 AVISO IMPORTANTE: Este repositório é um experimento em andamento (WIP) e sua metodologia de avaliação atual (Zero-Shot p/ concorrência e cálculo de eficiência) contém falhas conhecidas de medição. Por favor, NÃO leve os resultados do ranking atual a sério como definidores de "qual modelo é melhor". O benchmark passará por grandes refatorações na fase `/agentic`. 🚧</strong>
+    <br />
+    <br />
     <a href="https://github.com/VSennaa/free-llm-benchmark"><strong>Explore the docs »</strong></a>
     <br />
     <br />
